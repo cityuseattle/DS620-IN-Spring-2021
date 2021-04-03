@@ -1,4 +1,4 @@
-# DS620-ON-Spring-2021-Assignments
+# DS620-IN-Spring-2021-Assignments
 
 
 <strong>PREPARATION TO DO HANDS-ON SKILLS</strong>
